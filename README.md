@@ -33,3 +33,14 @@ We have been given the monthly production quantity for a certain agricultural pr
   - `start_day` and `end_day` of each month between Jan 2021 to Dec 2021. 
   - `prod`: This column needs to be filled by the candidate with their predictions of Grople syrup. 
   - `region_id`:A unique identifier for the 10 provinces
+
+## Notebook Solution
+- Install requirements
+```shell
+pip install -r requirements.txt
+```
+- Run a jupyter notebook session
+```shell
+jupyter notebook
+```
+- Run all blocks in the notebook
